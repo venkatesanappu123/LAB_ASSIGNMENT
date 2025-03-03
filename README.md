@@ -22,3 +22,6 @@ Data selection is the process of choosing a relevant subset of data from a large
 ![Screenshot 2025-03-03 113159](https://github.com/user-attachments/assets/ee0daefb-e26b-4cbb-a8ab-890fb1a5dfa5)
 ![Screenshot 2025-03-03 113210](https://github.com/user-attachments/assets/ce723215-176f-4a55-ad3d-2c27ad8d5d02)
 ![Screenshot 2025-03-03 113222](https://github.com/user-attachments/assets/9eb35363-1b15-46f5-865f-8ef5b8352c94)
+![Screenshot 2025-03-03 114417](https://github.com/user-attachments/assets/f675c44c-1ad0-4f50-9589-7984c7dff6cb)
+![Screenshot 2025-03-03 114423](https://github.com/user-attachments/assets/841fe9aa-b6a5-425c-bc6f-0e69f04c126a)
+
